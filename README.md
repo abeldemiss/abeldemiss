@@ -8,11 +8,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/abeldemiss/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting and Security Operations Projects
 
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
-<hr/>
+## Active Directory and Ticketing Systems
+
+- **[Help Desk Ticketing System w/Active Directory](https://github.com/abeldemiss/Help-Desk)
 
 ## 🤳 Connect With Me
 
