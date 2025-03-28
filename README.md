@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## Active Directory and Ticketing Systems
 
-- **[Help Desk Ticketing System w/Active Directory](https://github.com/abeldemiss/Help-Desk)
+- **[Help Desk Ticketing System w/Active Directory](https://github.com/abeldemiss/Help-Desk)**
 
 ## 🤳 Connect With Me
 
