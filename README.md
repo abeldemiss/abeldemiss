@@ -9,13 +9,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
     In this project, I simulate the implementation of a comprehensive **vulnerability management program**, from inception to completion.
   
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()** (IN PROGRESS)
 
-## 🚨 Threat Hunting and Security Operations Projects
+## 🚨 Threat Hunting and Security Operations Projects (IN PROGRESS)
 
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
-## 🎫 Ticketing System and Active Directory
+## 🎫 Ticketing System and Active Directory (IN PROGRESS)
 
 - **[Help Desk Ticketing System w/Active Directory Integration](https://github.com/abeldemiss/Help-Desk)**
 
