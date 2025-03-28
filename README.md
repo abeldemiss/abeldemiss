@@ -6,15 +6,20 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/abeldemiss/vulnerability-management-program)**
+
+    In this project, I simulate the implementation of a comprehensive **vulnerability management program**, from inception to completion.
+  
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
 
 ## 🚨 Threat Hunting and Security Operations Projects
 
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
-## Active Directory and Ticketing Systems
+## 🎫 Ticketing System and Active Directory
 
 - **[Help Desk Ticketing System w/Active Directory Integration](https://github.com/abeldemiss/Help-Desk)**
+
+    This project is a comprehensive home lab setup focused on creating a help desk environment with **Active Directory** integration and a ticketing system. It serves as both a learning platform and a practical demonstration of IT infrastructure management.
 
 ## 🤳 Connect With Me
 
