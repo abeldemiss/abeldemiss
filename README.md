@@ -9,7 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
     In this project, I simulate the implementation of a comprehensive **vulnerability management program**, from inception to completion.
   
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()** (IN PROGRESS)
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/abeldemiss/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations Projects (IN PROGRESS)
 
