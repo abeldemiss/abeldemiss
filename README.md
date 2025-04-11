@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
-## 🎫 Ticketing System and Active Directory (IN PROGRESS)
+## 🎫 Ticketing System and Active Directory
 
 - **[Help Desk Ticketing System w/Active Directory Integration](https://github.com/abeldemiss/Help-Desk)**
 
