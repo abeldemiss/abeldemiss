@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
   
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/abeldemiss/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations Projects (IN PROGRESS)
+## 🚨 Threat Hunting and Security Operations Projects
 
 - **[Threat Hunting Scenario (Tor Browser Usage)]()**
 
