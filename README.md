@@ -17,7 +17,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Help Desk Ticketing System w/Active Directory Integration](https://github.com/abeldemiss/Help-Desk)**
 
-    This project is a comprehensive home lab setup focused on creating a help desk environment with **Active Directory** integration and a ticketing system. It serves as both a learning platform and a practical demonstration of IT infrastructure management.
+    This project is a comprehensive home lab setup focused on creating a help desk environment with **Active Directory** integration and a ticketing system.
 
 ## 🤳 Connect With Me
 
