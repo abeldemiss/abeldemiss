@@ -6,13 +6,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/abeldemiss/vulnerability-management-program)**
-
-    In this project, I simulate the implementation of a comprehensive **vulnerability management program**, from inception to completion.
   
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/abeldemiss/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations Projects
-A digital forensics project analyzing unauthorized TOR browser activity on a corporate device. Includes log analysis, timeline reconstruction, and incident reporting using Kusto queries. Demonstrates skills in cybersecurity         investigation and technical documentation.
+
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/abeldemiss/threat-hunting-scenario-tor)**
 
 ## 🎫 Ticketing System and Active Directory
